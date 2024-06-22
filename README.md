@@ -13,6 +13,8 @@ The `~/dotfiles` directory is under version control using Git and is proudly hos
 ### Easy Setup
 When setting up a new system, I clone the repository into `~/dotfiles` and recreate the symlinks. This step is currently manual, but it's not rocket science to automate (future me, take note).
 
+[List all local symlinks](https://askubuntu.com/questions/522051/how-to-list-all-symbolic-links-in-a-directory)
+
 ## The Nitty-Gritty
 
 1. **Symlink Creation**:
